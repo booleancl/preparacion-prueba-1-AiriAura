@@ -8,3 +8,4 @@ rm pendientes.txt
 cd ..
 rmdir academia
 
+
